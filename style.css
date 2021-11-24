@@ -1,0 +1,50 @@
+body
+{
+    background-color: grey;
+}
+
+#jeden
+{
+    background-color: greenyellow;
+}
+
+.pierwszy
+{
+    background-color: hotpink;
+}
+
+#dwa
+{
+    background-color: lavender;
+}
+
+.drugi
+{
+    background-color: aquamarine;
+}
+
+#lista
+{
+    background-color: bisque;
+}
+
+.item1
+{
+    color: blue;
+}
+.item2
+{
+    color: brown;
+}
+.item3
+{
+    color: darkgreen;
+}
+.item4
+{
+    color: deepskyblue;
+}
+.item5
+{
+    color: gold;
+}
